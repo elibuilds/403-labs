@@ -1,0 +1,6 @@
+- The Head of Department (HOD) office is Room 204, Computer Science Building, open Monday–Friday, 9:00 AM – 4:00 PM.
+- The General Office (for transcript requests and introductory letters) is Room 101, open 8:30 AM – 4:30 PM.
+- The Academic Advisor for Level 300/400 students is Dr. Mensah (Room 210, Tuesdays & Thursdays 10:00 AM – 1:00 PM).
+- Course registration issues (DCIT add/drop) are handled at the Faculty Helpdesk in Room 105.
+- The Computer Lab is located on the Ground Floor and closes at 8:00 PM on weekdays.
+- The Department Administrator's email is cs-admin@ug.edu.gh.
